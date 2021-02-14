@@ -1,0 +1,2 @@
+# JNITest
+My JNI Playground
